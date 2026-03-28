@@ -17,8 +17,10 @@
   "quickset.on": "开启",
   "quickset.off": "关闭",
   
+  "quickset.world.gameMode": "游戏模式",
   "quickset.world.doDaylightCycle": "昼夜循环",
   "quickset.world.doWeatherCycle": "天气循环",
+  "quickset.world.doFireTick": "火焰蔓延",
   "quickset.world.randomTickSpeed": "随机刻速度",
   
   "quickset.mob.mobGriefing": "生物破坏方块",
@@ -31,7 +33,6 @@
   "quickset.damage.drowningDamage": "溺水伤害",
   "quickset.damage.freezeDamage": "冰冻伤害",
   "quickset.damage.naturalRegeneration": "自然生命恢复",
-  "quickset.damage.doFireTick": "火焰蔓延",
   
   "quickset.player.keepInventory": "死亡不掉落",
   "quickset.player.immediateRespawn": "立即重生",
