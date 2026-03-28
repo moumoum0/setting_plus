@@ -1,0 +1,53 @@
+{
+  "quickset.title": "快捷设置+",
+  
+  "quickset.button.world": "世界环境...",
+  "quickset.button.mob": "生物设置...",
+  "quickset.button.damage": "伤害设置...",
+  "quickset.button.player": "玩家体验...",
+  "quickset.button.visual": "视觉效果...",
+  
+  "quickset.screen.world": "世界环境",
+  "quickset.screen.mob": "生物设置",
+  "quickset.screen.damage": "伤害设置",
+  "quickset.screen.player": "玩家体验",
+  "quickset.screen.visual": "视觉效果",
+  "quickset.apply": "应用设置",
+  "quickset.applied": "设置已应用！",
+  "quickset.on": "开启",
+  "quickset.off": "关闭",
+  
+  "quickset.world.doDaylightCycle": "昼夜循环",
+  "quickset.world.doWeatherCycle": "天气循环",
+  "quickset.world.randomTickSpeed": "随机刻速度",
+  
+  "quickset.mob.mobGriefing": "生物破坏方块",
+  "quickset.mob.doMobSpawning": "生物生成",
+  "quickset.mob.doInsomnia": "幻翼生成",
+  "quickset.mob.maxEntityCramming": "最大实体拥挤数",
+  
+  "quickset.damage.fallDamage": "摔落伤害",
+  "quickset.damage.fireDamage": "火焰伤害",
+  "quickset.damage.drowningDamage": "溺水伤害",
+  "quickset.damage.freezeDamage": "冰冻伤害",
+  "quickset.damage.naturalRegeneration": "自然生命恢复",
+  "quickset.damage.doFireTick": "火焰蔓延",
+  
+  "quickset.player.keepInventory": "死亡不掉落",
+  "quickset.player.immediateRespawn": "立即重生",
+  "quickset.player.showDeathMessages": "死亡消息",
+  "quickset.player.announceAdvancements": "进度公告",
+  "quickset.player.playersSleepingPercentage": "睡觉跳过比例",
+  
+  "quickset.visual.gamma": "伽马值（夜视）",
+  "quickset.visual.fovEffectScale": "视野效果缩放",
+  "quickset.visual.screenEffectScale": "屏幕效果缩放",
+  "quickset.visual.darknessEffectScale": "黑暗效果缩放",
+  "quickset.visual.entityDistanceScaling": "实体距离缩放",
+  
+  "quickset.error.multiplayer": "§c游戏规则只能在单人世界中修改！",
+  "quickset.visual.applied": "§a视觉效果已应用！",
+  "quickset.gamerule.applied": "§a游戏规则已应用！",
+  
+  "key.quickset.open": "打开快捷设置"
+}

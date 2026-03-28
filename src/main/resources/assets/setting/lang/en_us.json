@@ -1,0 +1,54 @@
+{
+  "quickset.title": "Quick Settings+",
+  
+  "quickset.button.world": "World Environment...",
+  "quickset.button.mob": "Mob Settings...",
+  "quickset.button.damage": "Damage Settings...",
+  "quickset.button.player": "Player Experience...",
+  "quickset.button.visual": "Visual Effects...",
+  
+  "quickset.screen.world": "World Environment",
+  "quickset.screen.mob": "Mob Settings",
+  "quickset.screen.damage": "Damage Settings",
+  "quickset.screen.player": "Player Experience",
+  "quickset.screen.visual": "Visual Effects",
+  "quickset.apply": "Apply Settings",
+  "quickset.applied": "Settings Applied!",
+  "quickset.on": "ON",
+  "quickset.off": "OFF",
+  
+  "quickset.world.gameMode": "Game Mode",
+  "quickset.world.doDaylightCycle": "Daylight Cycle",
+  "quickset.world.doWeatherCycle": "Weather Cycle",
+  "quickset.world.randomTickSpeed": "Random Tick Speed",
+  "quickset.world.doFireTick": "Fire Spread",
+  
+  "quickset.mob.mobGriefing": "Mob Griefing",
+  "quickset.mob.doMobSpawning": "Mob Spawning",
+  "quickset.mob.doInsomnia": "Phantom Spawning",
+  "quickset.mob.maxEntityCramming": "Max Entity Cramming",
+  
+  "quickset.damage.fallDamage": "Fall Damage",
+  "quickset.damage.fireDamage": "Fire Damage",
+  "quickset.damage.drowningDamage": "Drowning Damage",
+  "quickset.damage.freezeDamage": "Freeze Damage",
+  "quickset.damage.naturalRegeneration": "Natural Regeneration",
+  
+  "quickset.player.keepInventory": "Keep Inventory",
+  "quickset.player.immediateRespawn": "Immediate Respawn",
+  "quickset.player.showDeathMessages": "Death Messages",
+  "quickset.player.announceAdvancements": "Announce Advancements",
+  "quickset.player.playersSleepingPercentage": "Sleep Percentage",
+  
+  "quickset.visual.gamma": "Gamma (Fullbright)",
+  "quickset.visual.fovEffectScale": "FOV Effect Scale",
+  "quickset.visual.screenEffectScale": "Screen Effect Scale",
+  "quickset.visual.darknessEffectScale": "Darkness Effect Scale",
+  "quickset.visual.entityDistanceScaling": "Entity Distance Scaling",
+  
+  "quickset.error.multiplayer": "§cGame rules can only be modified in singleplayer!",
+  "quickset.visual.applied": "§aVisual effects applied!",
+  "quickset.gamerule.applied": "§aGame rules applied!",
+  
+  "key.quickset.open": "Open Quick Settings"
+}

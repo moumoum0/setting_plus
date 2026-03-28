@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "setting",
+	"version": "${version}",
+	"name": "QuickSet+",
+	"description": "快捷设置模组 - 整合常用GameRule和客户端隐藏设置到GUI界面",
+	"authors": [
+		"QuickSet Team"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/setting/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "com.quickset.xnn.Setting",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "com.quickset.xnn.SettingClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"setting.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}
