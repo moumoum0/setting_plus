@@ -2,16 +2,16 @@
 	"schemaVersion": 1,
 	"id": "setting",
 	"version": "${version}",
-	"name": "QuickSet+",
+	"name": "setting_plus",
 	"description": "快捷设置模组 - 整合常用GameRule和客户端隐藏设置到GUI界面",
 	"authors": [
 		"QuickSet Team"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/quickset-plus",
+		"sources": "https://github.com/QuickSetTeam/QuickSetPlus"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache-2.0",
 	"icon": "assets/setting/icon.png",
 	"environment": "*",
 	"entrypoints": {
